@@ -1,4 +1,12 @@
-# Visualization
+# PRODIGY_DS_01 🌟
+# 📊 VISUALIZATION USING VARIOUS CHARTS AND GRAPHS
+
+##
+![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_01/blob/main/Image1.webp)
+![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_01/blob/main/Image2.png)
+![Image 3](https://github.com/Siddhartha19Sinha/PRODIGY_DS_01/blob/main/Image3.jpg)
+
+---
 
 🌟 Welcome to the Prodigy Infotech Data Science Internship Task 01! Let's embark on a journey of data exploration with the World Bank Group Analysis! 🌐📈
 
@@ -43,8 +51,6 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 - 🛠️ Submit pull requests to collaborate on improvements.
 
 ## 📬 Contact
-Questions or suggestions? Reach out to:
-- **DEBOLINA CHATTERJEE**
-- **Email:** debolinachatterjee1011@gmail.com (mailto:debolinachatterjee1011@gmail.com)
+For any questions or suggestions, feel free to contact me at [siddhartha19sinha@gmail.com](mailto:siddhartha19sinha@gmail.com).
 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
