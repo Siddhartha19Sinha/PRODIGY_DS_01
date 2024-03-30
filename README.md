@@ -1,5 +1,5 @@
 # PRODIGY_DS_01 🌟
-# 📊 VISUALIZATION USING VARIOUS CHARTS AND GRAPHS
+# VISUALIZATION USING VARIOUS CHARTS AND GRAPHS 📊 
 
 ##
 ![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_01/blob/main/Image1.webp)
