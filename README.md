@@ -8,7 +8,7 @@
 
 ---
 
-🌟 Welcome to the Prodigy Infotech Data Science Internship Task 01! Let's embark on a journey of data exploration with the World Bank Group Analysis! 🌐📈
+🌟 Welcome to the Prodigy Infotech Data Science Internship Task 01! Let's embark on a journey of data exploration with the World Population Data! 🌐📈
 
 ## Tools Utilized
 - 🐍 Python
